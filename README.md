@@ -9,7 +9,7 @@ The target audience is anyone interested in building or buying a PC.
 # Budget:
 **Entry-level:** $400–$800; **Mid-range:** $800–$1,500; **High-end:** $1,500+
 # Research and Compare
-**Brands:** [Dell](https://www.dell.com/en-us), [HP](https://www.hp.com/us-en/home.html), [Lenovo](https://www.lenovo.com/us/en/), [ASUS](https://www.asus.com), [Nvidia](https://www.nvidia.com/en-us/), etc. **Retailers:** Compare prices and configurations at trusted stores like Best Buy, Newegg, or Amazon. **Reviews:** Check online reviews for reliability and performance insights.
+**Brands:** [Dell](https://www.dell.com/en-us), [HP](https://www.hp.com/us-en/home.html), [Lenovo](https://www.lenovo.com/us/en/), [ASUS](https://www.asus.com), [Nvidia](https://www.nvidia.com/en-us/), etc. **Retailers:** Compare prices and configurations at trusted stores like [Best Buy](https://www.bestbuy.com), [Newegg](https://www.newegg.com), or [Amazon](https://www.amazon.com). **Reviews:** Check online reviews for reliability and performance insights.
 # Gaming:
   If your PC needs are for gaming Focus on a powerful GPU (NVIDIA GeForce RTX or AMD Radeon), a fast processor (Intel i5/i7 or Ryzen 5/7), and at least 16 GB of RAM. Aim for SSD storage for faster loading. A useful site is [PCPartPicker](https://uk.pcpartpicker.com). This site allows for you to add each part to your virtual PC and see prices and availability. Here's what to prioritize: 
 **CPU (Processor):** Intel i5/i7 or AMD Ryzen 5/7 and 6+ cores for smooth gaming.
